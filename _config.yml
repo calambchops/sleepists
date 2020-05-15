@@ -86,4 +86,4 @@ exclude:
   - CNAME
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
