@@ -92,3 +92,8 @@ plugins:
 
 theme: "minimal-mistakes-jekyll"
 
+# Build settings
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: "mmistakes/minimal-mistakes"
