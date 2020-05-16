@@ -86,4 +86,4 @@ exclude:
   - CNAME
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes-jekyll
