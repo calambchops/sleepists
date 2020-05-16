@@ -85,10 +85,5 @@ exclude:
   - README.md
   - CNAME
 
-# Build settings
-plugins:
-  - jekyll-remote-theme
 
-theme: "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes"
  
