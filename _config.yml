@@ -88,4 +88,7 @@ exclude:
 # Build settings
 plugins:
   - jekyll-remote-theme
+# Build settings
+
+theme: "minimal-mistakes-jekyll"
 
