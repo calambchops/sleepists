@@ -92,3 +92,4 @@ plugins:
 # Build settings
 theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"  
